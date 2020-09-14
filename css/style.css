@@ -1447,3 +1447,8 @@ body.offcanvas {
   width: 30px;
   border-radius: 50%;
 }
+
+.pub {
+  font-style: italic;
+  font-size: medium;
+}
